@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "author": "Claude",
+  "description": { "": "Hollow dari surface yang dipilih, tembus ujung ke ujung, tebal dinding diatur langsung dengan live preview." },
+  "supportedOS": "windows|mac",
+  "runOnStartup": true,
+  "editEnabled": true
+}
